@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+html{
+    overflow-x: hidden;
+}
+.empty{
+    height: 1100px;
+    width: 100%;
+    background-color:#E5E5E5;
+    position:absolute;
+    top: 0px;
+    z-index: -1;
+    margin: 0;
+}
+.Homepage{
+    height: 1100px;
+    font-family: 'Poppins';
+    background: transparent;
+     padding: 30px;
+    z-index: 0;
+    font-size: x-large;
+    margin: 0;
+    
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px; 
+     
+}
+.navigation div{
+   align-self: center;
+}
