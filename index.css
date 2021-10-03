@@ -146,3 +146,106 @@ h3{
 .right h1{
     color: #EAAB1B ;
 }
+.page3{
+    clear: both;
+    font-family: 'Poppins';
+    text-align: center;
+    background-color: #EAF3E4;
+    margin: 40px;
+    padding-bottom: 30px;
+}
+#explore{
+    display: inline;
+    position: relative;
+    bottom: -50px;
+    
+}
+#menu{
+    color: #6CB840;
+    display: inline;
+    position: relative;
+    bottom: -50px;
+
+}
+.burgers1{
+    display: flex;
+    margin: 70px
+}
+.burgers1 h4{
+    color: white;
+    font-size: xx-large;
+    position: relative;
+    bottom: -50px;
+    left: -65px;
+}
+.burg1, .burg2, .burg3{
+    background-color: white;
+    border-bottom-right-radius: 4rem;
+    width: 370px;
+    height: 200px ;
+    margin: 100px;
+    margin-top: 80px;
+}
+.burg1 img{
+    position: relative;
+    left: -150px;
+    top: -42px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.burg1 h2{
+    position: relative;
+    top: 0px;
+    left: -60px;
+}
+.burg1 p{
+    position: relative;
+    top: -215px;
+    right: -120px;
+    height: 150px;
+    width: 160px;
+}
+.burg2 img{
+    position: relative;
+    left: -150px;
+    top: -40px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.burg2 h2{
+    position: relative;
+    top: 0px;
+    left: -60px;
+}
+.burg2 p{
+    position: relative;
+    top: -215px;
+    right: -120px;
+    height: 150px;
+    width: 160px;
+}
+.burg3 img{
+    position: relative;
+    left: -150px;
+    top: -40px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.burg3 h2{
+    position: relative;
+    top: 0px;
+    left: -60px;
+}
+.burg3 p{
+    position: relative;
+    top: -215px;
+    right: -120px;
+    height: 150px;
+    width: 160px;
+}
