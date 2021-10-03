@@ -130,3 +130,19 @@ h3{
 #intro{
     font-weight: 500px;
 }
+.page2{
+    font-family: 'Poppins';
+    clear: both;
+}
+.left{
+    float: left;
+}
+.right{
+    position:relative;
+    bottom: -200px;
+    left: -65px;
+    font-size: x-large;
+}
+.right h1{
+    color: #EAAB1B ;
+}
