@@ -419,6 +419,31 @@ h3{
 }
 .email{
     width: 900px;
-    height: 150px;
-   
+    height: 150px;  
+}
+#contact-email{
+    width: 800px;
+    height: 80px;
+    border: white;
+    border-radius: 3rem;
+    position: relative;
+    right: -600px;
+    bottom: 200px;
+}
+.email ::placeholder{
+    font-size: xx-large;
+    position: relative;
+    right: -20px;
+}
+#button-contact{
+    height: 80px;
+    width: 250px;
+    font-size: xx-large;
+    border: white;
+    border-radius: 3rem;
+    background-color: #6CB840;
+    color: white;
+    position: relative;
+    right: -850px;
+    top: -200px;
 }
