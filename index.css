@@ -377,3 +377,12 @@ h3{
     top: -290px;
     font-size: x-large;   
 }
+#juice{
+    position: relative;
+    top:-80px;
+}
+#burger{
+    position: relative;
+    right:370px;
+    top: -15px;
+}
