@@ -447,3 +447,83 @@ h3{
     right: -850px;
     top: -200px;
 }
+.footer-container{
+    font-family: 'Poppins';
+    display: flex;
+    background-color: #F1FAEC;
+    height: 400px;
+    margin: 40px;
+    padding: 150px;
+    justify-items: space-around;
+    padding-left: 20px;
+    position: relative;
+    top: -250px;
+}
+.icon img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    right: -180px;
+    bottom: -120px;
+}
+.days{
+    font-size: large;
+    padding-right: 100px;
+    margin: 30px;
+    width: 500px;
+}
+.days p{
+    font-size: x-large;
+    margin: 0;
+}
+.address{
+    font-size: large;
+    border-left: 5px dashed #77A85C;
+    height: 210px;
+    position: relative;
+    width: 400px;
+    bottom: -100px;
+    padding-left: 20px;
+    left: -130px;
+}
+.address p{
+    font-size: x-large;
+    width: 290px;
+    position: relative;
+    top: -10px;
+    left: 0px;
+}
+#first{
+    position: relative;
+    top: 10px;
+}
+#friday{
+    position: relative;
+    bottom: 150px;
+}
+#second{
+    position: relative;
+    top: -150px;
+}
+.socials{
+    font-size: large;
+    position: relative;
+    right: -150px;
+    bottom: -100px;
+}
+.socials p{
+    font-size: x-large;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+#button-footer{
+    position: relative;
+    top: 150px;
+    width: 80px;
+    height: 50px;
+    border-radius: 0;
+    font-size: medium;
+    right: -170px;
+    font-weight: 1000;
+}
