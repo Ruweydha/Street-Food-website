@@ -386,3 +386,39 @@ h3{
     right:370px;
     top: -15px;
 }
+.page5{
+    font-family: 'Poppins';
+    background-color: #FFF5DD;
+    clear: both;
+    position: relative;
+    top: -300px;
+    margin: 40px;
+}
+.page5 h2{
+    text-align: center;
+    margin-top: 0px;
+    position: relative;
+    top: 50px;
+    right: -800px;
+    font-size: xx-large;
+}
+#contact{
+    display: inline;
+}
+#us{
+    display: inline;
+    color: #6CB840;
+}
+.page5 p{
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: -700px;
+    font-size: x-large;
+    height: 500px;
+}
+.email{
+    width: 900px;
+    height: 150px;
+   
+}
